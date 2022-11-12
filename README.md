@@ -1,4 +1,30 @@
-# turing-smart-screen-python
+# turing-smart-screen-python-ozbargain
+
+This is a fork of https://github.com/mathoudebine/turing-smart-screen-python
+
+This is an incomplete attempt at writing some python to continually update the smart screen with the current "top deal" based on some undecided logic.
+
+The dots (...) were added as a workaround for the gibberish that gets added when you move text and "empty space" remains
+
+In its current state it does not scrape the ozbargain feed, although this was the goal.
+
+The oz.xml is a point in time save from the feed https://www.ozbargain.com.au/deals/feed
+
+The description currently has all the tags and I never worked out a nice way for the text to wrap, but I'm sure its possible with more attention.
+
+To run this project, "clone" the repo, install python, and run oz.py.
+
+Please let me know if you have questions or trouble getting it running.
+
+
+
+
+
+The below is from the original repo README.md:
+
+
+
+
 
 ### ⚠️ DISCLAIMER - PLEASE READ ⚠️
 
